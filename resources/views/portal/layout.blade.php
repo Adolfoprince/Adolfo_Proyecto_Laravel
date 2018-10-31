@@ -6,21 +6,21 @@
   <meta name="description" content="">
   <meta name="author" content="">
   <title>Oxygen - One Page HTML Template | Themeum</title>
-  <link href="template/css/bootstrap.min.css" rel="stylesheet">
-  <link href="template/css/animate.min.css" rel="stylesheet"> 
-  <link href="template/css/font-awesome.min.css" rel="stylesheet">
-  <link href="template/css/lightbox.css" rel="stylesheet">
-  <link href="template/css/main.css" rel="stylesheet">
-  <link id="template/css-preset" href="template/css/presets/preset1.css" rel="stylesheet">
-  <link href="template/css/responsive.css" rel="stylesheet">
+  <link href="portal/css/bootstrap.min.css" rel="stylesheet">
+  <link href="portal/css/animate.min.css" rel="stylesheet"> 
+  <link href="portal/css/font-awesome.min.css" rel="stylesheet">
+  <link href="portal/css/lightbox.css" rel="stylesheet">
+  <link href="portal/css/main.css" rel="stylesheet">
+  <link id="css-preset" href="portal/css/presets/preset1.css" rel="stylesheet">
+  <link href="portal/css/responsive.css" rel="stylesheet">
 
   <!--[if lt IE 9]>
-    <script src="template/js/html5shiv.js"></script>
-    <script src="template/js/respond.min.js"></script>
+    <script src="portal/js/html5shiv.js"></script>
+    <script src="portal/js/respond.min.js"></script>
   <![endif]-->
   
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
-  <link rel="shortcut icon" href="template/images/favicon.ico">
+  <link rel="shortcut icon" href="portal/images/favicon.ico">
 </head><!--/head-->
 
 <body>
@@ -70,7 +70,7 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="index.html">
-            <h1><img class="img-responsive" src="template/images/logo.png" alt="logo"></h1>
+            <h1><img class="img-responsive" src="portal/images/logo.png" alt="logo"></h1>
           </a>                    
         </div>
         <div class="collapse navbar-collapse">
@@ -213,7 +213,7 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="300ms">
             <div class="folio-image">
-              <img class="img-responsive" src="template/images/portfolio/1.jpg" alt="">
+              <img class="img-responsive" src="portal/images/portfolio/1.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
@@ -224,7 +224,7 @@
                   </div>
                   <div class="folio-overview">
                     <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="portal/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -234,7 +234,7 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="400ms">
             <div class="folio-image">
-              <img class="img-responsive" src="template/images/portfolio/2.jpg" alt="">
+              <img class="img-responsive" src="portal/images/portfolio/2.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
@@ -245,7 +245,7 @@
                   </div>
                   <div class="folio-overview">
                     <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="portal/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -255,7 +255,7 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="500ms">
             <div class="folio-image">
-              <img class="img-responsive" src="template/images/portfolio/3.jpg" alt="">
+              <img class="img-responsive" src="portal/images/portfolio/3.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
@@ -266,7 +266,7 @@
                   </div>
                   <div class="folio-overview">
                     <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="portal/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -276,7 +276,7 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="600ms">
             <div class="folio-image">
-              <img class="img-responsive" src="template/images/portfolio/4.jpg" alt="">
+              <img class="img-responsive" src="portal/images/portfolio/4.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
@@ -287,7 +287,7 @@
                   </div>
                   <div class="folio-overview">
                     <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="portal/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -297,7 +297,7 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="700ms">
             <div class="folio-image">
-              <img class="img-responsive" src="template/images/portfolio/5.jpg" alt="">
+              <img class="img-responsive" src="portal/images/portfolio/5.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
@@ -308,7 +308,7 @@
                   </div>
                   <div class="folio-overview">
                     <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="portal/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -318,7 +318,7 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="800ms">
             <div class="folio-image">
-              <img class="img-responsive" src="template/images/portfolio/6.jpg" alt="">
+              <img class="img-responsive" src="portal/images/portfolio/6.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
@@ -329,7 +329,7 @@
                   </div>
                   <div class="folio-overview">
                     <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="portal/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -339,7 +339,7 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInRightBig" data-wow-duration="1000ms" data-wow-delay="900ms">
             <div class="folio-image">
-              <img class="img-responsive" src="template/images/portfolio/7.jpg" alt="">
+              <img class="img-responsive" src="portal/images/portfolio/7.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
@@ -350,7 +350,7 @@
                   </div>
                   <div class="folio-overview">
                     <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="portal/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -360,7 +360,7 @@
         <div class="col-sm-3">
           <div class="folio-item wow fadeInLeftBig" data-wow-duration="1000ms" data-wow-delay="1000ms">
             <div class="folio-image">
-              <img class="img-responsive" src="template/images/portfolio/8.jpg" alt="">
+              <img class="img-responsive" src="portal/images/portfolio/8.jpg" alt="">
             </div>
             <div class="overlay">
               <div class="overlay-content">
@@ -371,7 +371,7 @@
                   </div>
                   <div class="folio-overview">
                     <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="portfolio-single.html" ><i class="fa fa-link"></i></a></span>
-                    <span class="folio-expand"><a href="template/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
+                    <span class="folio-expand"><a href="portal/images/portfolio/portfolio-details.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
               </div>
@@ -399,7 +399,7 @@
           <div class="col-sm-3">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="300ms">
               <div class="member-image">
-                <img class="img-responsive" src="template/images/team/1.jpg" alt="">
+                <img class="img-responsive" src="portal/images/team/1.jpg" alt="">
               </div>
               <div class="member-info">
                 <h3>Marian Dixon</h3>
@@ -420,7 +420,7 @@
           <div class="col-sm-3">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="500ms">
               <div class="member-image">
-                <img class="img-responsive" src="template/images/team/2.jpg" alt="">
+                <img class="img-responsive" src="portal/images/team/2.jpg" alt="">
               </div>
               <div class="member-info">
                 <h3>Lawrence Lane</h3>
@@ -441,7 +441,7 @@
           <div class="col-sm-3">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="800ms">
               <div class="member-image">
-                <img class="img-responsive" src="template/images/team/3.jpg" alt="">
+                <img class="img-responsive" src="portal/images/team/3.jpg" alt="">
               </div>
               <div class="member-info">
                 <h3>Lois Clark</h3>
@@ -462,7 +462,7 @@
           <div class="col-sm-3">
             <div class="team-member wow flipInY" data-wow-duration="1000ms" data-wow-delay="1100ms">
               <div class="member-image">
-                <img class="img-responsive" src="template/images/team/4.jpg" alt="">
+                <img class="img-responsive" src="portal/images/team/4.jpg" alt="">
               </div>
               <div class="member-info">
                 <h3>Marian Dixon</h3>
@@ -629,7 +629,7 @@
         <div class="row">
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms">
             <div class="post-thumb">
-              <a href="#"><img class="img-responsive" src="template/images/blog/1.jpg" alt=""></a> 
+              <a href="#"><img class="img-responsive" src="portal/images/blog/1.jpg" alt=""></a> 
               <div class="post-meta">
                 <span><i class="fa fa-comments-o"></i> 3 Comments</span>
                 <span><i class="fa fa-heart"></i> 0 Likes</span> 
@@ -657,13 +657,13 @@
                 </ol>
                 <div class="carousel-inner">
                   <div class="item active">
-                    <a href="#"><img class="img-responsive" src="template/images/blog/2.jpg" alt=""></a>
+                    <a href="#"><img class="img-responsive" src="portal/images/blog/2.jpg" alt=""></a>
                   </div>
                   <div class="item">
-                    <a href="#"><img class="img-responsive" src="template/images/blog/1.jpg" alt=""></a>
+                    <a href="#"><img class="img-responsive" src="portal/images/blog/1.jpg" alt=""></a>
                   </div>
                   <div class="item">
-                    <a href="#"><img class="img-responsive" src="template/images/blog/3.jpg" alt=""></a>
+                    <a href="#"><img class="img-responsive" src="portal/images/blog/3.jpg" alt=""></a>
                   </div>
                 </div>                               
                 <a class="blog-left-control" href="#post-carousel" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
@@ -688,7 +688,7 @@
           </div>
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
             <div class="post-thumb">
-              <a href="#"><img class="img-responsive" src="template/images/blog/3.jpg" alt=""></a>
+              <a href="#"><img class="img-responsive" src="portal/images/blog/3.jpg" alt=""></a>
               <div class="post-meta">
                 <span><i class="fa fa-comments-o"></i> 3 Comments</span>
                 <span><i class="fa fa-heart"></i> 0 Likes</span> 
@@ -771,7 +771,7 @@
     <div class="footer-top wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
       <div class="container text-center">
         <div class="footer-logo">
-          <a href="index.html"><img class="img-responsive" src="template/images/logo.png" alt=""></a>
+          <a href="index.html"><img class="img-responsive" src="portal/images/logo.png" alt=""></a>
         </div>
         <div class="social-icons">
           <ul>
@@ -799,16 +799,16 @@
     </div>
   </footer>
 
-  <script type="text/javascript" src="template/js/jquery.js"></script>
-  <script type="text/javascript" src="template/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="portal/js/jquery.js"></script>
+  <script type="text/javascript" src="portal/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
-  <script type="text/javascript" src="template/js/jquery.inview.min.js"></script>
-  <script type="text/javascript" src="template/js/wow.min.js"></script>
-  <script type="text/javascript" src="template/js/mousescroll.js"></script>
-  <script type="text/javascript" src="template/js/smoothscroll.js"></script>
-  <script type="text/javascript" src="template/js/jquery.countTo.js"></script>
-  <script type="text/javascript" src="template/js/lightbox.min.js"></script>
-  <script type="text/javascript" src="template/js/main.js"></script>
+  <script type="text/javascript" src="portal/js/jquery.inview.min.js"></script>
+  <script type="text/javascript" src="portal/js/wow.min.js"></script>
+  <script type="text/javascript" src="portal/js/mousescroll.js"></script>
+  <script type="text/javascript" src="portal/js/smoothscroll.js"></script>
+  <script type="text/javascript" src="portal/js/jquery.countTo.js"></script>
+  <script type="text/javascript" src="portal/js/lightbox.min.js"></script>
+  <script type="text/javascript" src="portal/js/main.js"></script>
 
 </body>
 </html>
