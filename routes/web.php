@@ -23,6 +23,29 @@ Route::get('admin' , function(){
 
 });
 
+Route::get('/compradores', function (){
+	//
+	return view('compradores');
+});
+
+Route::post('/comprador', function (Request $request){
+
+
+	$compradores = new compradores;
+	$compradores->name = $request->name;
+	$compradores->name = $request->apellido;
+	$compradores->name = $request->cedula;
+	$compradores->name = $request->direccion;
+	$compradores->save();
+
+	return redirect('/compradores');
+
+});
+
+Route::delete('/comprador/{id}', function ($id){
+
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
