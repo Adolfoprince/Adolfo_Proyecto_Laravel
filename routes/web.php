@@ -14,37 +14,11 @@
 Route::get('/', function () {
     return view('portal.dashboard');
 });
-
-
-
-Route::get('admin' , function(){
-
-	return view('admin.dashboard');
-
+Route::get('menu' , function(){
+	return view('menu');
 });
 
-Route::get('/compradores', function (){
-	//
-	return view('compradores');
-});
-
-Route::post('/comprador', function (Request $request){
-
-
-	$compradores = new compradores;
-	$compradores->name = $request->name;
-	$compradores->name = $request->apellido;
-	$compradores->name = $request->cedula;
-	$compradores->name = $request->direccion;
-	$compradores->save();
-
-	return redirect('/compradores');
-
-});
-
-Route::delete('/comprador/{id}', function ($id){
-
-});
+Route::resource('compradores', 'CompradoresController');
 
 Auth::routes();
 

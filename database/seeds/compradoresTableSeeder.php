@@ -1,8 +1,9 @@
 <?php
 
 use Illuminate\Database\Seeder;
+use App\Compradores;
 
-class DatabaseSeeder extends Seeder
+class compradoresTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -11,6 +12,6 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        $this->call(compradoresTableSeeder::class);
+        factory(Compradores::class, 30)->create();
     }
 }

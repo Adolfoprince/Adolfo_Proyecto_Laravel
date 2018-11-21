@@ -37,7 +37,7 @@
             <h1 class="animated fadeInLeftBig">Welcome to <span>Oxygen</span></h1>
             <p class="animated fadeInRightBig">Bootstrap - Responsive Design - Retina Ready - Parallax</p>
             <a data-scroll class="btn btn-start animated fadeInUpBig" href="#services">Start now</a>
-            <a data-scroll class="btn btn-start animated fadeInUpBig" href="login">Login</a>
+            <a data-scroll class="btn btn-start animated fadeInUpBig" href="menu">menu</a>
           </div>
         </div>
         <div class="item" style="background-image: url(images/slider/2.jpg)">

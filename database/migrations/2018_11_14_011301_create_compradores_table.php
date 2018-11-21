@@ -17,7 +17,6 @@ class CreateCompradoresTable extends Migration
             $table->increments('id');
             $table->string('name');
             $table->string('apellido');
-            $table->integer('cedula');
             $table->string('direccion');
             $table->timestamps();
         });
