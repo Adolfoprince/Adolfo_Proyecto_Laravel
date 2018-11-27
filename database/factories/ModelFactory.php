@@ -28,6 +28,24 @@ $factory->define(App\Compradores::class, function (Faker\Generator $faker) {
     return [
         'name' => $faker->text(20),
         'apellido' => $faker->text(20),
-        'direccion' =>$faker->text(60),
+        'direccion' =>$faker->text(40),
     ];
+});
+
+$factory->define(App\Productos::class, function (Faker\Generator $faker) {
+
+    return [
+        'name_comprador' => $faker->text(20),
+        'name' => $faker->text(20),
+        'descripcion' =>$faker->text(30),
+        'fabricante' =>$faker->text(30),
+    ];
+});
+
+$factory->define(App\Pagos::class, function (Faker\Generator $faker) {
+
+    return [
+        'name_producto' => $faker->text(20),
+        'tipo_pago' => $faker->text(20),
+        ];
 });

@@ -1,9 +1,9 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use App\Compradores;
+use App\Pagos;
 
-class compradoresTableSeeder extends Seeder
+class pagosTableSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -12,6 +12,6 @@ class compradoresTableSeeder extends Seeder
      */
     public function run()
     {
-        factory(Compradores::class, 8)->create();
+        factory(Pagos::class, 8)->create();
     }
 }

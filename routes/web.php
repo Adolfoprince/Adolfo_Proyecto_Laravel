@@ -20,6 +20,10 @@ Route::get('menu' , function(){
 
 Route::resource('compradores', 'CompradoresController');
 
+Route::resource('productos', 'ProductosController');
+
+Route::resource('pagos', 'PagosController');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

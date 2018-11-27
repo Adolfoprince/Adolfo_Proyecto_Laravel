@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="{{ route('compradores.index') }}">Listado de Compradores</a>
+                    <a href="{{ route('productos.index') }}">Listado de Compradores</a>
                 </div>
             </div>
         </div>

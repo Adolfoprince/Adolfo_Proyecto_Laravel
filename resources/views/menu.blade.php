@@ -8,6 +8,14 @@
                  <div class="links">
                     <a href="{{ route('compradores.index') }}" class="btn btn-primary">Listado de Compradores</a>
                 </div>
+                <h3><strong> Productos</strong></h3>
+                 <div class="links">
+                    <a href="{{ route('productos.index') }}" class="btn btn-primary">Listado de Productos</a>
+                </div>
+                <h3><strong> Pagos</strong></h3>
+                 <div class="links">
+                    <a href="{{ route('pagos.index') }}" class="btn btn-primary">Listado de Pagos</a>
+                </div>
     </div>
 </div>
 <br><br><br>
